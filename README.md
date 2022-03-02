@@ -87,7 +87,6 @@ Prototipos HD
 
 ![Prototipoimage](src/images/imagefondo.png)
 
-
 ## 4-Test de usabilidad
 1. Cuando el usuario da doble click a la misma tarjeta lo toma como un match.
 
